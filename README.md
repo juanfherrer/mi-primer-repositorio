@@ -1,4 +1,7 @@
 # Introduction to GitHub
+# # Bienvenido a mi primer repositorio
+# Estoy aprendiendo GitHub desde cero 🚀
+
 
 <!-- ![](https://github.com/juanfherrer/mi-primer-repositorio/actions/workflows/0-start-exercise.yml/badge.svg) -->
 ![](https://github.com/juanfherrer/mi-primer-repositorio/actions/workflows/1-create-a-branch.yml/badge.svg)
@@ -25,14 +28,16 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 
+Actualicé el README con una presentación inicial
+
 ### How to start this exercise
 
 1. Right-click **Copy Exercise** and open the link in a new tab.
 
-   <a id="copy-exercise">
+   <a id="copy-exercise Actualicé el README con una presentación inicial">
       <img src="https://img.shields.io/badge/📠_Copy_Exercise-AAA" height="25pt"/>
    </a>
-
+Actualicé el README con una presentación inicial
 2. In the new tab, most of the prompts will automatically fill in for you.
    - For owner, choose your personal account or an organization to host the repository.
    - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.chttps://github.com/juanfherrer/mi-primer-repositorio/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
@@ -42,18 +47,20 @@ In this exercise, you will:
    - The **Copy Exercise** button will deactivate, changing to gray.
    - The **Start Exercise** button will activate, changing to green.
    - You will likely need to refresh the page.
-
+Actualicé el README con una presentación inicial
 4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
 
-   <a id="start-exercise" href="https://github.com/juanfherrer/mi-primer-repositorio/issues/1">
+   <a id="Start / Actualicé el README con una presentación inicial" href="https://github.com/juanfherrer/mi-primer-repositorio/issues/1">
       <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
    </a>
-
+Actualicé el README con una presentación inicial
 > [!IMPORTANT]
 > The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
 
----
+--- Actualicé el README con una presentación inicial
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+Actualicé el README con una presentación inicial
